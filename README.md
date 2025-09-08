@@ -5,7 +5,7 @@
 
 ### About Me
 
-Hi, I'm **Bradley**. I'm an IT leader with a lifelong passion for software engineering and continuous learning. With a career that began as a hands-on developer, I've grown into a leadership role where I guide and empower engineering teams to build effective and innovative solutions.
+Hi, I'm **Bradley**. I'm a technology leader with a lifelong passion for software engineering and continuous learning. With a career that began as a hands-on engineer, I've grown into a leadership role where I guide and empower engineering teams to build effective and innovative solutions.
 
 ---
 
@@ -13,8 +13,8 @@ Hi, I'm **Bradley**. I'm an IT leader with a lifelong passion for software engin
 
 My professional journey is defined by growth and adaptation.
 
-* **Foundation in Engineering:** I've been a developer and engineer for my entire career, building a strong technical foundation from the ground up.
-* **Transition to Leadership:** In 2012, I transitioned into IT leadership, where I've focused on strategy, team development, and delivering business value through technology.
+* **Foundation in Engineering:** I've been an engineer for my entire career, building a strong technical foundation from the ground up.
+* **Transition to Leadership:** In 2012, I transitioned into IT leadership, where I've focused on strategy, team development, and delivering business value through technology, all while continuing to code.
 * **Lifelong Learner:** My commitment to education is a core part of my story. I earned an undergraduate degree in Computer Science in 2002 and, driven by a desire to keep growing in my trade, I'm currently pursuing a Master's degree in the same field.
 
 ---
